@@ -1,0 +1,28 @@
+#navbar{
+    display: flex;
+    height: 7rem;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    background-color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+li {
+    margin-right: 3rem;
+    margin-left: 3rem;
+    padding-right: 2rem ;
+    padding-left: 2rem ;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #000000;
+    color: #FFFFFF;
+    border: 1px solid #FFCF00 ;
+}

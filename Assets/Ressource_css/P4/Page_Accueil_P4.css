@@ -1,0 +1,10 @@
+#Guide_Titre {
+    background-color: #FFCF00;
+    display: flex;
+    position: relative;
+    top: 7rem;
+    justify-content: center;
+}
+#Guide_Titre_texte {
+    font-size: xx-large;
+}
