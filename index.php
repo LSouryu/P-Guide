@@ -12,6 +12,7 @@
 include'Assets/Ressource_html/P4/nav_P4.php';
 include'Assets/Ressource_html/P4/Page_Accueil_P4.php';
 include'Assets/Ressource_html/P4/nav_Redirect_P4.php';
+include'Assets/Ressource_html/P4/Guide_Page_P4.php';
 ?>
 </body>
 </html>

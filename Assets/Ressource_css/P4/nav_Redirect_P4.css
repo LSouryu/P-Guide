@@ -1,0 +1,40 @@
+#nav_Guide {
+    display: none;
+}
+#sous_nav_Guide {
+    list-style: none;
+    position: relative;
+    top: 8rem;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#nav_Dungeon {
+    display: none;
+}
+#sous_nav_Dungeon {
+    list-style: none;
+    position: relative;
+    top: 8rem;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#nav_Confident {
+    display: none;
+}
+#sous_nav_Confident {
+    list-style: none;
+    position: relative;
+    top: 8rem;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.menu_Redirect{
+    background-color: #FFCF00;
+    color: #FFFFFF;
+    font-size: xx-large;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
