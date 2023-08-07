@@ -5,7 +5,7 @@ function Afficher_Accueil () {
     document.getElementById("nav_Guide").style.display = "none";
     document.getElementById("nav_Dungeon").style.display = "none";
     document.getElementById("nav_Confident").style.display = "none";
-    while(i <= 1) {
+    while(i < Mounth.length) {
         Mounth[i].style.display = "none";
         i++
     }
@@ -17,7 +17,7 @@ function Afficher_Guide () {
     document.getElementById("nav_Guide").style.display = "flex";
     document.getElementById("nav_Dungeon").style.display = "none";
     document.getElementById("nav_Confident").style.display = "none";
-    while(i <= 1) {
+    while(i < Mounth.length) {
         Mounth[i].style.display = "none";
         i++
     }
@@ -29,7 +29,7 @@ function Afficher_Dungeon () {
     document.getElementById("nav_Guide").style.display = "none";
     document.getElementById("nav_Dungeon").style.display = "flex";
     document.getElementById("nav_Confident").style.display = "none";
-    while(i <= 1) {
+    while(i < Mounth.length) {
         Mounth[i].style.display = "none";
         i++
     }
@@ -41,7 +41,7 @@ function Afficher_Confident () {
     document.getElementById("nav_Guide").style.display = "none";
     document.getElementById("nav_Dungeon").style.display = "none";
     document.getElementById("nav_Confident").style.display = "flex";
-    while(i <= 1) {
+    while(i < Mounth.length) {
         Mounth[i].style.display = "none";
         i++
     }
@@ -50,7 +50,7 @@ function Afficher_April () {
     const Mounth = document.getElementById("enssenble_Mounth").children
     let i = 0;
     document.getElementById("nav_Guide").style.display = "none";
-    while(i <= 1) {
+    while(i < Mounth.length) {
         Mounth[i].style.display = "none";
         i++
     }
@@ -60,7 +60,7 @@ function Afficher_May () {
     const Mounth = document.getElementById("enssenble_Mounth").children
     let i = 0;
     document.getElementById("nav_Guide").style.display = "none";
-    while(i <= 1) {
+    while(i < Mounth.length) {
         Mounth[i].style.display = "none";
         i++
     }
