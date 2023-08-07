@@ -10,12 +10,11 @@
     left: 0;
     right: 0;
 }
-ul {
-    list-style-type: none;
+#menu_nav {
     display: flex;
     justify-content: flex-end;
 }
-li {
+.menu {
     margin-right: 3rem;
     margin-left: 3rem;
     padding-right: 2rem ;
