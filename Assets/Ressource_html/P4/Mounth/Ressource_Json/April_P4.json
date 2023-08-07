@@ -1,0 +1,149 @@
+{
+    "11":
+        [{
+            "Date":"April 11th",
+            "Comm":"Nothing important Here"
+        }],
+    "12":
+        [{
+            "Date":"April 12th",
+            "School": 
+                [{
+                    "Dialogue": "morooka : Tell 'em your name, kid and make it quick.",
+                    "responce": "Option C : ... You calling me a loser ?",
+                    "Stats": "Courage +1"
+                }],
+            "Evening": 
+                [{
+                    "Comm":"Nothing important Here"
+                }]
+        }],
+    "13":
+        [{
+            "Date":"April 13th",
+            "School":
+                [{
+                    "Stats":"Lesson : Knowledge +1"
+                }],
+            "Evening": 
+                [{
+                    "Comm":"Nothing important Here"
+                }]
+        }],
+    "14":
+        [{
+            "Date":"April 14th",
+            "School": 
+                [{
+                    "Dialogue": "Question: What is the year before 1 A.D. called?",
+                    "responce": "Option B: 1 B.C.",
+                    "Stats": "Knowledge +1"
+                }],
+            "After School": 
+                [{
+                    "Dialogue": "Chie: So...uh...We're still alive...right?",
+                    "responce": "Option B: Are you guys okay?",
+                    "Stats": "Understanding +1"
+                }],
+            "Evening": 
+                [{
+                    "Comm":"Nothing important Here"
+                }]
+        }],
+    "15":
+        [{
+            "Date":"April 15th",
+            "After School": 
+                [{
+                    "Dialogue": "Yosuke: What about you? Could you just walk away?",
+                    "responce": "Option C: I'm worried about Chie.",
+                    "Stats": "Understanding +1",
+                    "Boss": "Shadow Yosuke (Voir Dungeon/Boss : Twisted Shopping District)"
+                }],
+            "Evening": 
+                [{
+                    "Comm":"Nothing important Here"
+                }]
+        }],
+    "16":
+        [{
+            "Date":"April 16th",
+            "Morning": 
+                [{
+                    "SL": "Magician Social Link Rank 1 (Auto)"
+                }],
+            "Evening": 
+                [{
+                    "Comm":"Nothing important Here"
+                }]
+        }],
+    "17":
+        [{
+            "Date":"April 17th",
+            "Daytime": 
+                [{
+                    "DJ": "Exploration of the first Dungeon (Voir Dungeon/Boss : Yukiko's Castle)",
+                    "Boss": "Shadow Chie (Voir Dungeon/Boss : Yukiko's Castle)",
+                    "SL": "Fool Social Link Rank 1 (Auto)"
+                }],
+            "Evening": 
+                [{
+                    "Cost": "Obtain a Yaso High Jersey from Morooka",
+                    "Comm":"Nothing important Here"
+                }]
+        }],
+    "18":
+        [{
+            "Date":"April 18th",
+            "Morning": 
+                [{
+                    "SL_1": "Chariot Social Link Rank 1 (Auto)",
+                    "Dialogue_1": "Chie: I dunno, I guess that's what draws people to you, or something like that",
+                    "responce_1": "any Option",
+                    "responce_1.5": "Option C: Falling for me, huh? (Requires unknown rank Courage) (Unable to pick) (Only available on New Game +)",
+                    "Dialogue_2": "Narrator: You have not yet asked Chie for her contact information.",
+                    "responce_2": "any Option",
+                    "responce_2.5": "Option A: Ask her straight out. (Requires unknown rank Courage) (Unable to pick) (Only available on New Game +)"
+                }],
+            "School": 
+                [{
+                    "Dialogue": "Question: The word alphabet comes from the words alpha and what other one?",
+                    "responce": "Option C: Beta",
+                    "Stats": "Knowledge +1"
+                }],
+            "After School": 
+                [{
+                    "Quest_1":[{
+                        "Quest": "Quest 1: Who's the Riddle Master!?",
+                        "Quest_Dialogue": "Talk to Funky Student on Classroom Building 3F",
+                        "Quest_responce": "Option A: Group A ; Option B: 6 Flag Colors",
+                        "Quest_recompence":"Obtained 3 Chest Keys"
+                    }],
+                    "Quest_2":[{
+                        "Quest": "Bug Catching",
+                        "Quest_Comm":"Talk to Bug-Catching Kid at Shopping District Shrine",
+                        "Quest_Comm_2": "He will ask for a different item every day for a bug." ,
+                        "Quest_Comm_3": "The item can be from the Vending Machine or Souzai Daigaku.",
+                        "Quest_Comm_4": "Grab it and bring it to him.",
+                        "Quest_Comm_5": "Evidence suggests it will always be a Dr. Salt NEO today.",
+                        "Quest_recompence":"Obtained 2 Tatshumie Ladybugs",
+                        "Quest_Comm_6": "Needed for Fishing Rod"
+                    }],
+                    "Quest_3":[{
+                        "Quest": "Gardening",
+                        "Quest_Comm":"You can talk to the Gardening Woman at Junes to obtain gardening items.",
+                        "Quest_Comm_2": " Today she sells 3 Tiny Soul Tomatoes, which heal 20 SP each." ,
+                        "Quest_Comm_3": " I don't use her often during the early game, but you may be interested."
+                    }],
+                    "SL": "Aeon Social Link Rank 1",
+                    "SL_Comm": "Enter the Velvet Room, leave, and come back.",
+                    "SL_Comm2": "Marie should comment on how often you visit the Velvet Room.",
+                    "SL_Comm3": "Check on Dwellers, Listen to Marie's Request"
+                }],
+            "Evening": 
+                [{
+                    "Comm":"Check the fridge. Some of these are quite humorous.",
+                    "Comm2": "Save your game, Study  at your Desk"
+                }]
+        }]
+}
